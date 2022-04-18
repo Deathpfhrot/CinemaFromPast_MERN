@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "row": "A",
+    "seat": 1,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 2,
+    "row": "A",
+    "seat": 2,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 3,
+    "row": "A",
+    "seat": 3,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 4,
+    "row": "A",
+    "seat": 4,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 5,
+    "row": "A",
+    "seat": 5,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 6,
+    "row": "A",
+    "seat": 6,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 7,
+    "row": "B",
+    "seat": 1,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 8,
+    "row": "B",
+    "seat": 2,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 9,
+    "row": "B",
+    "seat": 3,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 10,
+    "row": "B",
+    "seat": 4,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 11,
+    "row": "B",
+    "seat": 5,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 12,
+    "row": "B",
+    "seat": 6,
+    "class": "Oberschicht",
+    "booked": false,
+    "pricefront": "15€",
+    "priceback": 15
+  },
+  {
+    "id": 13,
+    "row": "C",
+    "seat": 1,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 14,
+    "row": "C",
+    "seat": 2,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 15,
+    "row": "C",
+    "seat": 3,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 16,
+    "row": "C",
+    "seat": 4,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 17,
+    "row": "C",
+    "seat": 5,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 18,
+    "row": "C",
+    "seat": 6,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 19,
+    "row": "D",
+    "seat": 1,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 20,
+    "row": "D",
+    "seat": 2,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 21,
+    "row": "D",
+    "seat": 3,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 22,
+    "row": "D",
+    "seat": 4,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 23,
+    "row": "D",
+    "seat": 5,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  },
+  {
+    "id": 24,
+    "row": "D",
+    "seat": 6,
+    "class": "Unterschicht",
+    "booked": false,
+    "pricefront": "14€",
+    "priceback": 14
+  }
+]
